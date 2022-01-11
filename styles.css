@@ -1,0 +1,31 @@
+body {
+    background-color: #f4f8f0;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    height: 2px;
+    border-width: 8px;
+    border-color: grey;
+    width: 4%;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+h1 {
+    color: rgb(9, 189, 189);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 2px;
+    word-spacing: 4px;
+}
+
+h3 {
+    color: rgb(9, 189, 189);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 2px;
+    word-spacing: 4px;
+}
